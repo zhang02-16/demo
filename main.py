@@ -17,5 +17,4 @@ if __name__ == '__main__':
 
 =======
 # kgfxbfgenydet
->>>>>>> 6a16d42 (添加注释)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
