@@ -13,5 +13,9 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+<<<<<<< HEAD
 
+=======
+# kgfxbfgenydet
+>>>>>>> 6a16d42 (添加注释)
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
